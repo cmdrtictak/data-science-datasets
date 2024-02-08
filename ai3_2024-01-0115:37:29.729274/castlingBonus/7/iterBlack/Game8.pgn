@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.04||1.01||16.16||1.32||0.78||0.98||1.10||1.20"]
+[Result "1/2-1/2"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 e6e5 21.Ng5e6 Ra5a6 22.a2a4 c6c5 23.Ne4g5 Ra6d6 24.h2h4 a7a5
+25.Ra1c1 Nh6g8 26.Ke2e3 Ng8f6 27.Ke3e2 Nf6d5 28.Ne6xf8 Nd5f4 29.Ke2d1 Ke8xf8 30.Ng5h7 Kf8e7
+31.Rc1c4 Nf4xd3 32.Kd1c2 Nd3xb2 33.Kc2xb2 Rd6xd2 34.Rc4c2 Rd2xc2 35.Kb2xc2 Rc8h8 36.Nh7g5 Nd7f6
+37.Rh1d1 Rh8d8 38.Rd1xd8 Ke7xd8 39.Ng5f7 Kd8c8 40.Nf7xe5 b7b6 41.f2f4 Nf6d5 42.g2g3 Nd5e3
+43.Kc2b1 Ne3f5 44.Ne5c4 Kc8b7 45.Kb1c1 Nf5xg3 46.Nc4d6 Kb7c6 47.Nd6c4 Ng3e2 48.Kc1c2 Ne2xf4
+49.Nc4e5 Kc6c7 50.Kc2b1 Nf4d5 51.Kb1c2 Kc7b7 52.Ne5c4 g7g6 53.Nc4d6 Kb7a8 54.Nd6c4 Nd5b4
+55.Kc2b1 Ka8a7 56.Nc4e5 Nb4d5 57.Kb1c1 Nd5b4 58.Kc1d2 Nb4d5 59.Ne5xg6 Ka7b7 60.Ng6e5 Nd5f6
+61.Ne5c4 Nf6d5 62.Kd2e1 Nd5c3 63.Ke1d2 Nc3d5 64.Kd2c2 Nd5e7 65.Nc4d6 Kb7c7 66.Nd6e8 Kc7d8
+67.Ne8g7 Ne7d5 68.Ng7xh5 Nd5e3 69.Kc2c1 Ne3f5 70.Nh5f4 Nf5xh4 71.Nf4d5 Nh4f3 72.Nd5xb6 Nf3d4
+73.Kc1b2 Nd4f3 74.Nb6c4 Nf3e1 75.Nc4xa5 Ne1d3 76.Kb2b1 Kd8c7 77.Na5c4 Kc7b7 78.a4a5 Kb7a6
+79.Kb1c2 Nd3f4 80.Kc2c1 Nf4d5 81.Kc1d1 Ka6a7 82.Kd1c2 Ka7a6 83.Kc2d1 Nd5f6 84.Kd1e1 Nf6e4
+85.Ke1e2 Ne4c3 86.Ke2f3 Nc3d5 87.Kf3f2 Nd5f4 88.Kf2g1 Nf4d5 89.Kg1h1 Nd5f6 90.Kh1h2 Nf6d5
+91.Kh2g3 Nd5c3 92.Kg3g2 Nc3d5 93.Kg2f3 Nd5c3 94.Kf3f2 Nc3d5 95.Kf2e1 Nd5f4 96.Ke1f2 Nf4d5
+97.Kf2g1 Nd5f6 98.Kg1f1 Nf6d5 99.Kf1g2 Nd5f6 100.Kg2f2 Nf6d5 101.Kf2g3 Nd5c3 102.Kg3g2 Nc3d5
+103.Kg2f3 Nd5f6 104.Kf3g3 Nf6d5 105.Kg3h4 Nd5f6 106.Kh4g3 Nf6d5 107.Kg3h4 Nd5f4 108.Kh4g4 Nf4d5
+109.Kg4f5 Nd5e7 110.Kf5e4 Ka6b5 111.Ke4d3 Ne7d5 112.Kd3e4 Nd5b4 113.Ke4f3 Nb4c6 114.Kf3e2 Nc6xa5
+115.Nc4xa5 Kb5xa5 116.Ke2d1 Ka5b5 117.Kd1d2 c5c4 118.b3xc4 Kb5xc4 1/2-1/2

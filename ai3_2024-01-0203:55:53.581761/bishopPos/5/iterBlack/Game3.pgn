@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.02"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.09||0.98||16.15||1.29||1.06||0.98||1.12||0.40"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 e7e5 8.f4xe5 Nd7xe5 9.Nb1c3 d5d4 10.Nc3b5 Ke8d7 11.Nb5xd4 Ra8e8 12.Ke1d1 Bf8c5
+13.Ng1f3 Ne5xf3 14.Nd4xf3 Bc5xf2 15.Rh1f1 Bf2c5 16.d2d4 Bc5d6 17.h2h3 Re8e4 18.Rf1e1 Re4xe1
+19.Kd1xe1 f7f6 20.Ke1e2 Ng8e7 21.Bc1d2 Ne7f5 22.d4d5 Rh8e8 23.Ke2d3 g7g6 24.g2g4 h5xg4
+25.h3xg4 Nf5g3 26.Ra1e1 Re8xe1 27.Bd2xe1 Ng3h1 28.a2a4 c7c6 29.c2c4 c6xd5 30.c4xd5 f6f5
+31.g4xf5 g6xf5 32.b2b3 f5f4 33.Kd3c4 Nh1g3 34.Be1c3 Ng3e4 35.Bc3d4 a7a6 36.Nf3e5 Kd7c8
+37.Ne5f3 Bd6c7 38.Kc4d3 Ne4g3 39.Kd3c2 Ng3f5 40.Bd4c5 Nf5e3 41.Bc5xe3 f4xe3 42.Kc2d3 Bc7f4
+43.a4a5 Kc8d7 44.b3b4 Kd7d6 45.Kd3c4 e3e2 46.Kc4d3 e2e1=Q 47.Nf3xe1 Kd6xd5 48.Ne1c2 Bf4e5
+49.Nc2e3 Kd5c6 50.Ne3c2 Kc6b5 51.Kd3e4 Be5c7 52.Ke4f3 Bc7e5 53.Kf3f2 b7b6 54.a5xb6 Kb5xb6
+55.Nc2a3 Be5d4 56.Kf2g2 Kb6c6 57.Kg2h3 Kc6d5 58.Na3c2 Bd4e5 59.Nc2e3 Kd5e6 60.Ne3d1 Be5d6
+61.Nd1e3 Bd6xb4 62.Ne3c2 Bb4c5 63.Nc2e1 a6a5 64.Ne1d3 Bc5d4 65.Kh3g3 a5a4 66.Kg3f3 Ke6f5
+67.Nd3b4 Bd4g7 68.Nb4c2 Bg7e5 69.Kf3f2 Kf5g6 70.Kf2g2 Kg6h6 71.Kg2f3 Kh6g5 72.Kf3e2 Kg5f5
+73.Ke2f2 Kf5g4 74.Kf2e2 Kg4h4 75.Ke2f1 Kh4h3 76.Kf1e2 Kh3g2 77.Ke2d3 Kg2h3 78.Kd3e2 Kh3g2
+79.Ke2d1 Kg2g1 80.Kd1e2 Kg1g2 81.Ke2d3 Kg2g1 82.Kd3e2 Kg1h1 83.Ke2f1 Be5g3 84.Kf1e2 Bg3e5
+85.Ke2d1 Be5f4 86.Kd1e2 Bf4e5 87.Ke2f3 Kh1g1 88.Kf3g4 Kg1f2 89.Nc2a3 Kf2g1 90.Na3c4 Be5d4
+91.Kg4g3 Kg1f1 92.Kg3h2 Kf1e2 93.Kh2g2 Ke2d3 94.Nc4a3 Kd3e2 95.Na3b5 Bd4e5 96.Kg2h3 Ke2f3
+97.Nb5a3 Kf3e4 98.Na3c4 Be5d4 99.Kh3g3 Ke4d5 100.Nc4a3 Bd4b2 101.Na3c2 a4a3 102.Nc2b4 Kd5c4
+103.Nb4c6 a3a2 104.Nc6a5 Kc4c3 105.Na5c6 a2a1=Q 106.Kg3h2 Qa1a2 107.Nc6e5 Bb2c1 108.Kh2g1 Bc1e3
+109.Kg1h1 Qa2d5 110.Kh1h2 Qd5xe5 111.Kh2g2 Qe5d5 112.Kg2h3 Kc3b4 113.Kh3g4 Kb4a3 114.Kg4g3 Ka3b4
+115.Kg3g4 Kb4a3 116.Kg4g3 Ka3b4 117.Kg3g4 Kb4a3 118.Kg4h3 Ka3b4 119.Kh3h4 Qd5g2 120.Kh4h5 Qg2g5 0-1

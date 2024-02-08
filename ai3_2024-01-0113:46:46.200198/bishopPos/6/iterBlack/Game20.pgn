@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||3.94||1.00||15.96||1.32||1.30||0.98||1.08||0.40"]
+[Result "1-0"]
+
+1.e2e3 e7e6 2.Qd1g4 Qd8f6 3.Qg4f4 Bf8d6 4.Qf4xf6 Ng8xf6 5.Nb1c3 Nf6g4 6.h2h3 Ng4e5
+7.Nc3b5 Nb8c6 8.h3h4 Ne5g4 9.Ng1f3 b7b6 10.Bf1d3 Bc8a6 11.Nb5xd6 c7xd6 12.Bd3xa6 Ke8e7
+13.Nf3h2 Nc6b4 14.Ba6d3 Ng4xh2 15.Rh1xh2 Ra8c8 16.Bd3e4 Nb4xc2 17.Be4xc2 Rc8xc2 18.b2b3 Rh8c8
+19.Bc1a3 e6e5 20.Ke1e2 h7h5 21.Ke2d3 a7a6 22.Rh2h1 a6a5 23.e3e4 Ke7e6 24.Rh1h3 b6b5
+25.b3b4 a5xb4 26.Ba3xb4 Rc2c4 27.Bb4a5 Rc4a4 28.Ba5c3 Ra4a3 29.Ra1b1 Rc8b8 30.Rb1b3 Ra3xa2
+31.f2f4 e5xf4 32.Bc3xg7 f7f6 33.Bg7h6 Ke6e5 34.Rh3f3 Ke5e6 35.Bh6xf4 Ra2a4 36.Rf3f1 Ke6e7
+37.Rf1c1 Ke7e6 38.Kd3e3 Ke6e7 39.d2d4 Rb8b6 40.d4d5 Rb6b8 41.Rb3b2 Rb8b6 42.Rc1c8 Ke7f7
+43.Rc8h8 Ra4a3 44.Ke3f2 Kf7g6 45.Rh8h6 Kg6g7 46.Rh6xh5 b5b4 47.g2g4 b4b3 48.Bf4e3 Rb6b4
+49.Kf2f3 Kg7g8 50.g4g5 Ra3a2 51.Rb2b1 Kg8g7 52.g5xf6 Kg7xf6 53.Rh5h6 Kf6g7 54.Rh6xd6 Kg7h8
+55.Rb1g1 Ra2f2 56.Kf3xf2 Rb4b6 57.Rd6xb6 d7d6 58.Rb6xd6 b3b2 59.Rd6h6 1-0

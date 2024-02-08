@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.03||0.98||15.98||1.27||0.80||1.17||1.11||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.Bf6d4 Rg8xg2 35.Bd4xa7 Ba3c5 36.Ba7xc5 Rh5xc5
+37.Kc2b2 Rg2xf2 38.Ra1d1 Nf7e5 39.d3d4 Ne5d3 40.Kb2a1 Rc5h5 41.Rh1h3 Nd3f4 42.Rh3g3 Rh5xh4
+43.Rg3g7 Kd7e8 44.Rg7xb7 Nf4d3 45.Rb7b8 Ke8e7 46.a2a4 Rh4xd4 47.Rb8h8 Rf2f8 48.Rh8xf8 Ke7xf8
+49.Rd1h1 Nd3c5 50.Rh1f1 Kf8g8 51.Rf1g1 Kg8f8 52.Rg1f1 Kf8e7 53.Rf1e1 Ke7d8 54.Re1e3 Rd4xd2
+55.a4a5 Rd2d1 56.Ka1a2 Nc5a6 57.Re3g3 Na6b4 58.Ka2a3 Nb4a6 59.Rg3g8 Kd8e7 60.Ka3b2 Ke7f7
+61.Rg8g2 Rd1d5 62.Rg2f2 Kf7e6 63.b3b4 Na6xb4 64.Kb2b3 Nb4a6 65.Kb3a4 Na6c5 66.Ka4a3 Nc5e4
+67.Rf2f3 Rd5xa5 68.Ka3b4 Ra5f5 69.Rf3xf5 Ke6xf5 70.Kb4b3 c6c5 71.Kb3c4 Kf5e5 72.Kc4d3 Ke5d5
+73.Kd3e3 c5c4 74.Ke3f3 c4c3 75.Kf3e2 c3c2 76.Ke2e3 c2c1=Q 77.Ke3e2 Qc1c3 78.Ke2f1 Ne4d6
+79.Kf1f2 Kd5e6 80.Kf2g1 Nd6f5 81.Kg1h2 Qc3d4 82.Kh2g2 Ke6f7 83.Kg2h1 Kf7g6 84.Kh1g2 Kg6f7
+85.Kg2f1 Kf7f8 86.Kf1e1 Kf8f7 87.Ke1e2 Kf7g6 88.Ke2e1 Kg6h7 89.Ke1e2 Kh7g8 90.Ke2f1 Kg8f7
+91.Kf1e1 Kf7e6 92.Ke1f1 Ke6f7 93.Kf1e1 Kf7g6 94.Ke1e2 Kg6h5 95.Ke2e1 Kh5g6 96.Ke1e2 Kg6h5
+97.Ke2e1 Kh5g5 98.Ke1f1 Kg5h5 99.Kf1e2 Kh5g6 100.Ke2f1 Kg6h7 101.Kf1e2 Kh7g8 102.Ke2f1 Kg8h7
+103.Kf1e1 Kh7g8 104.Ke1f1 Kg8h7 105.Kf1e2 Kh7g8 106.Ke2f1 Kg8f7 107.Kf1e2 Kf7f8 108.Ke2e1 Kf8g8
+109.Ke1e2 Kg8f8 110.Ke2e1 Kf8f7 111.Ke1f1 Kf7g6 112.Kf1e1 Kg6h5 113.Ke1e2 Kh5g6 114.Ke2e1 Kg6h5
+115.Ke1f1 Kh5g6 116.Kf1g2 Kg6f7 117.Kg2h2 Qd4f2 118.Kh2h3 Qf2g3 0-1

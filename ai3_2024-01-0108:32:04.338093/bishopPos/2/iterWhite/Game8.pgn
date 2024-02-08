@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||3.98||1.00||16.19||1.32||0.43||0.99||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "1-0"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Nb1c3 Ng8f6 4.Qh5g5 Bc8d7 5.a2a3 Nf6e4 6.Qg5xd5 Bd7c6
+7.Qd5c4 Ne4xc3 8.b2xc3 Qd6d5 9.Qc4b4 e7e6 10.Qb4g4 Qd5e4 11.f2f4 Qe4xc2 12.h2h4 Qc2f5
+13.Qg4g3 Nb8d7 14.Bc1b2 Nd7b6 15.c3c4 Ra8d8 16.Bb2d4 h7h6 17.a3a4 Nb6c8 18.c4c5 Nc8e7
+19.Bf1c4 b7b6 20.Bd4xg7 Qf5xc5 21.Bg7xh8 Qc5b4 22.Bc4e2 Qb4xd2 23.Ke1f2 Rd8b8 24.Qg3g4 Qd2c2
+25.Ng1h3 Qc2g6 26.Qg4xg6 Ne7xg6 27.Rh1c1 Bc6xa4 28.Ra1xa4 Ng6xh8 29.Ra4xa7 Bf8e7 30.Be2b5 Ke8f8
+31.Kf2g3 Nh8g6 32.Ra7xc7 Be7xh4 33.Kg3f3 Bh4d8 34.Rc7a7 f7f5 35.Nh3f2 Ng6h4 36.Kf3g3 Nh4g6
+37.Rc1h1 Bd8h4 38.Rh1xh4 Ng6xh4 39.Kg3xh4 Rb8c8 40.Bb5d3 Rc8c1 41.g2g3 Rc1c8 42.Kh4h5 Rc8c6
+43.Ra7a8 Kf8g7 44.Ra8a7 Kg7h8 45.Ra7a8 Kh8g7 46.Ra8a7 Kg7g8 47.Ra7a8 Kg8g7 48.Ra8a7 Kg7h8
+49.Ra7a8 Kh8g7 50.Ra8a7 Kg7f8 51.Ra7a8 Kf8g7 52.Ra8a7 Kg7f8 53.Ra7a8 Kf8g7 54.Ra8a7 Kg7h8
+55.Ra7a8 Kh8g7 56.Ra8a7 Kg7h8 57.Ra7a8 Kh8g7 58.Ra8a7 Kg7f8 59.Ra7a8 Kf8f7 60.Ra8a7 Kf7f8
+61.Ra7a8 Kf8g7 62.Ra8a7 Kg7g8 63.Ra7a8 Kg8f7 64.Ra8a7 Kf7g8 65.Ra7a8 Kg8g7 66.Ra8a7 Kg7g8
+67.Ra7a8 Kg8g7 68.Ra8a7 Kg7h8 69.Ra7a8 Kh8g7 70.Ra8a7 Kg7f8 71.Ra7a8 Kf8g7 72.Ra8a7 Kg7g8
+73.Ra7a8 Kg8f7 74.Ra8a7 Kf7f8 75.Ra7a8 Kf8e7 76.Ra8a7 Ke7f8 77.Ra7a8 Kf8e7 78.Ra8a7 Ke7d8
+79.Ra7a8 Rc6c8 80.Ra8xc8 Kd8xc8 81.Kh5xh6 Kc8d8 82.Bd3c2 b6b5 83.Kh6g7 Kd8d7 84.Kg7g8 Kd7c8
+85.Kg8h8 Kc8b7 86.Kh8g7 Kb7a7 87.Kg7h6 Ka7b8 88.Kh6g5 Kb8c7 89.Kg5h4 Kc7d7 90.Kh4g5 Kd7c7
+91.Kg5f6 Kc7d7 92.Kf6e5 Kd7e7 93.Ke5d4 b5b4 94.Kd4c5 b4b3 95.Bc2xb3 Ke7f6 96.Bb3c2 e6e5
+97.f4xe5 Kf6xe5 98.Kc5b4 Ke5f6 99.Kb4c3 Kf6e5 100.Kc3b4 Ke5f6 101.Kb4c5 Kf6e5 102.Kc5b6 Ke5f6
+103.Kb6c7 Kf6e5 104.Kc7d7 Ke5f6 105.Kd7d6 Kf6g5 106.Kd6e7 Kg5h5 107.Bc2xf5 Kh5h6 108.e3e4 Kh6g5
+109.g3g4 Kg5f4 110.Nf2d3 Kf4g5 111.e4e5 Kg5h4 112.e5e6 Kh4g3 113.Ke7d8 Kg3f3 114.e6e7 Kf3g2
+115.e7e8=Q Kg2h1 116.g4g5 Kh1g1 117.g5g6 Kg1h2 118.g6g7 Kh2g2 119.g7g8=Q Kg2h2 120.Qe8h5 1-0

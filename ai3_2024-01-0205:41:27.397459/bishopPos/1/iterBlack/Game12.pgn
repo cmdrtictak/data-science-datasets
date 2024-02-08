@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.02"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||3.94||1.02||16.16||1.28||0.20||1.02||1.07||0.40"]
+[Result "1/2-1/2"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 c7c6 4.Bb5d3 Qd6c5 5.Qh5e5 Nb8d7 6.Qe5d4 Qc5a5
+7.b2b4 Qa5a4 8.Nb1c3 e7e5 9.Nc3xa4 e5xd4 10.e3xd4 Bf8xb4 11.Bd3f5 Ng8f6 12.Ra1b1 a7a5
+13.c2c3 Nd7c5 14.Bf5xc8 Nc5d3 15.Ke1f1 Ra8xc8 16.Na4b6 Rc8d8 17.c3xb4 a5xb4 18.Kf1e2 Nd3f4
+19.Ke2e3 Nf4xg2 20.Ke3f3 Ng2h4 21.Kf3e2 Nf6d7 22.Nb6xd7 Ke8xd7 23.Rb1xb4 Rh8e8 24.Ke2d1 Kd7c7
+25.d2d3 Rd8a8 26.Bc1f4 Kc7c8 27.Rb4b2 Nh4g6 28.Bf4g3 b7b5 29.Ng1f3 Kc8d7 30.Nf3g5 f7f5
+31.Rh1e1 Re8xe1 32.Kd1xe1 f5f4 33.Bg3xf4 Ng6xf4 34.Ke1d2 h7h6 35.Ng5f3 Ra8e8 36.Rb2b1 g7g5
+37.Rb1e1 Re8xe1 38.Nf3xe1 g5g4 39.f2f3 g4xf3 40.Ne1xf3 Kd7c8 41.Nf3e5 Kc8c7 42.a2a3 Nf4e6
+43.h2h4 h6h5 44.Kd2e3 Kc7b7 45.Ne5d7 Kb7a7 46.Nd7c5 Ne6c7 47.Ke3f2 Nc7e8 48.a3a4 b5xa4
+49.Nc5xa4 Ne8d6 50.Na4c3 Nd6f5 51.Nc3e2 Nf5xh4 52.Ne2g3 Nh4g6 53.Ng3xh5 Ka7b8 54.Kf2g1 Kb8b7
+55.Kg1f2 Kb7a8 56.Kf2g1 Ka8b7 57.Kg1h1 Kb7b8 58.Kh1g1 Kb8c7 59.Kg1h1 Kc7b8 60.Kh1g1 Kb8a8
+61.Kg1f1 Ka8b7 62.Kf1g1 Kb7c8 63.Kg1f2 Kc8b8 64.Kf2e3 Kb8c8 65.Nh5f6 Kc8d8 66.Nf6g8 Kd8c8
+67.Ng8f6 Kc8b7 68.Nf6d7 Kb7c8 69.Nd7f6 Kc8d8 70.Nf6g8 Kd8c8 71.Ng8f6 Kc8d8 72.Nf6g8 Kd8c8
+73.Ng8f6 Kc8d8 74.Nf6g8 Kd8c7 75.Ng8f6 Kc7b7 76.Nf6d7 Kb7a7 77.Nd7f6 Ka7a6 78.Nf6d7 Ka6b5
+79.Nd7c5 Ng6f8 80.Ke3f4 Nf8g6 81.Kf4g4 Ng6f8 82.Kg4h3 Nf8g6 83.Nc5e6 Kb5b6 84.Kh3g4 Ng6e7
+85.Ne6c5 Kb6b5 86.Kg4f4 Ne7g6 87.Kf4g5 Ng6f8 88.Kg5f5 Kb5b6 89.Nc5a4 Kb6a7 90.Na4c3 Nf8d7
+91.Kf5e6 Nd7b6 92.Ke6f7 Nb6d7 93.Kf7e7 Nd7b6 94.Ke7e6 Ka7b8 95.Ke6f7 Kb8b7 96.Kf7f6 Kb7c7
+97.Kf6g6 Nb6d7 98.Kg6g7 Kc7d8 99.Kg7g6 c6c5 100.d4xc5 d5d4 101.Nc3b5 Nd7xc5 102.Nb5xd4 Nc5xd3
+103.Kg6h7 Kd8c8 104.Kh7g8 Kc8d8 105.Nd4e6 Kd8e8 106.Ne6d4 Ke8d8 107.Nd4f5 Kd8e8 108.Kg8h8 Nd3e5
+109.Nf5d4 Ne5c4 110.Kh8h7 Nc4e5 111.Nd4e6 Ne5f3 112.Kh7g6 Ke8d7 113.Kg6f6 Kd7d6 114.Ne6f4 Nf3d4
+115.Nf4d3 Nd4e6 116.Kf6g6 Kd6d5 117.Kg6f6 Kd5c4 118.Kf6xe6 Kc4xd3 1/2-1/2

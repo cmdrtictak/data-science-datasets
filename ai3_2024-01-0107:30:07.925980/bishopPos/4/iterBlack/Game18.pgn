@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.06||0.98||16.07||1.28||0.86||1.02||1.09||0.40"]
+[Result "1/2-1/2"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.g2g3 Ba3e7 35.Bf6xe7 Kd7xe7 36.d3d4 Nf7d6
+37.a2a4 Rh5f5 38.h4h5 Rf5xf2 39.Ra1e1 Ke7d7 40.Re1f1 Rf2xf1 41.Rh1xf1 Rg8xg3 42.a4a5 Kd7e6
+43.b3b4 Nd6b5 44.Rf1e1 Ke6d7 45.h5h6 Nb5xd4 46.Kc2b2 Rg3b3 47.Kb2a2 Rb3xb4 48.h6h7 Rb4a4
+49.Ka2b2 Ra4b4 50.Kb2c3 Rb4b3 51.Kc3xd4 Rb3h3 52.Kd4c4 Rh3xh7 53.Re1e3 b7b5 54.Kc4b3 Rh7h2
+55.Kb3c2 Rh2h5 56.Re3f3 Rh5c5 57.Kc2b3 Kd7e6 58.a5a6 Rc5d5 59.d2d3 Rd5d4 60.Rf3h3 c6c5
+61.Rh3h6 Ke6e7 62.Rh6h7 Ke7f6 63.Rh7h3 b5b4 64.Rh3g3 Kf6f7 65.Rg3e3 Kf7f6 66.Re3h3 Kf6g7
+67.Rh3e3 Kg7g6 68.Re3f3 Kg6g7 69.Rf3h3 Kg7g6 70.Rh3e3 Kg6h6 71.Re3e6 Kh6g7 72.Re6e3 Kg7h8
+73.Re3e8 Kh8h7 74.Re8e7 Kh7h6 75.Re7e6 Kh6g7 76.Re6e3 Kg7g8 77.Re3f3 Kg8g7 78.Rf3h3 Kg7f8
+79.Rh3g3 Kf8f7 80.Rg3e3 Kf7f6 81.Re3h3 Kf6g7 82.Rh3e3 Kg7h8 83.Re3e8 Kh8g7 84.Re8e3 Kg7f8
+85.Re3g3 Kf8f7 86.Rg3h3 Kf7f8 87.Rh3e3 Kf8g8 88.Re3h3 Kg8g7 89.Rh3e3 Kg7f7 90.Re3h3 Kf7g7
+91.Rh3f3 Kg7g6 92.Rf3e3 Kg6h6 93.Re3e6 Kh6h7 94.Re6e7 Kh7g8 95.Re7e3 Kg8f7 96.Re3g3 Kf7f6
+97.Rg3h3 Kf6g5 98.Rh3e3 Kg5h6 99.Re3e6 Kh6h7 100.Re6e7 Kh7h6 101.Re7e6 Kh6h7 102.Re6e7 Kh7h6
+103.Re7e6 Kh6g7 104.Re6e3 Kg7g6 105.Kb3c2 Kg6f6 106.Re3e1 Rd4f4 107.Re1h1 Rf4f3 108.Rh1h2 Kf6g7
+109.Rh2h5 b4b3 110.Kc2xb3 Rf3xd3 111.Kb3c4 Rd3d6 112.Rh5xc5 Rd6xa6 113.Rc5g5 Ra6g6 114.Rg5c5 Rg6g4
+115.Kc4b5 Kg7h8 116.Rc5c8 Rg4g8 117.Rc8xg8 Kh8xg8 118.Kb5a6 Kg8f8 119.Ka6xa7 1/2-1/2

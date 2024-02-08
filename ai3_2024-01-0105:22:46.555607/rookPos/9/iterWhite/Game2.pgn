@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||3.95||0.99||16.29||1.33||0.82||1.77||1.09||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Nb1c3 Ng8f6 4.Qh5g5 Bc8d7 5.a2a4 Nf6e4 6.Qg5xd5 Bd7c6
+7.Qd5c4 Ne4xc3 8.b2xc3 Qd6d5 9.Qc4g4 Bc6d7 10.Qg4b4 a7a5 11.Qb4h4 g7g5 12.Qh4h5 Bf8g7
+13.Ng1f3 Qd5f5 14.Nf3xg5 Qf5g6 15.Qh5xg6 h7xg6 16.Bf1d3 Bg7f6 17.Ng5f3 Bd7f5 18.Bd3xf5 g6xf5
+19.Ra1b1 b7b6 20.h2h4 Nb8c6 21.h4h5 Rh8g8 22.g2g3 Ke8d7 23.Ke1e2 Rg8g4 24.d2d4 e7e6
+25.Bc1a3 Ra8h8 26.h5h6 Kd7c8 27.h6h7 Bf6g7 28.Rb1b5 Kc8b7 29.Nf3d2 Kb7a6 30.Nd2c4 Ka6a7
+31.Ke2d3 Ka7a6 32.Nc4d2 e6e5 33.d4d5 Rg4xa4 34.Rb5b3 Nc6a7 35.Kd3e2 c7c6 36.d5xc6 Na7xc6
+37.c3c4 e5e4 38.c2c3 Ka6b7 39.Ba3d6 Ra4a2 40.Bd6a3 a5a4 41.Rb3b5 Ra2xa3 42.Rb5xf5 f7f6
+43.Nd2xe4 Ra3a2 44.Ne4d2 Ra2a3 45.g3g4 Ra3xc3 46.f2f4 a4a3 47.Rf5b5 Nc6a7 48.Rb5b1 b6b5
+49.c4xb5 Kb7b6 50.Rb1c1 Rc3xc1 51.Rh1xc1 Rh8xh7 52.Nd2c4 Kb6xb5 53.Nc4xa3 Kb5a4 54.Rc1c7 Rh7h2
+55.Ke2d3 Na7c6 56.Na3c2 Rh2xc2 57.Kd3xc2 Nc6b4 58.Kc2d1 Bg7h6 59.Rc7c4 Ka4b3 60.Rc4c7 Nb4d5
+61.Rc7b7 Kb3c4 62.Kd1d2 Bh6f8 63.f4f5 Bf8h6 64.Kd2e2 Nd5xe3 65.Rb7c7 Kc4b5 66.Rc7b7 Kb5c6
+67.Rb7b4 Bh6g5 68.Rb4d4 Kc6c5 69.Rd4a4 Kc5b6 70.Ra4d4 Kb6c5 71.Rd4a4 Kc5b6 72.Ra4d4 Kb6c5
+73.Rd4a4 Kc5b6 74.Ra4d4 Kb6c5 75.Rd4a4 Kc5b6 76.Ke2d3 Kb6b5 77.Ra4e4 Ne3d5 78.Kd3c2 Nd5b4
+79.Kc2d1 Nb4d3 80.Kd1c2 Nd3e5 81.Re4d4 Kb5c5 82.Rd4e4 Kc5d5 83.Re4b4 Ne5c4 84.Rb4b7 Nc4e3
+85.Kc2d3 Ne3xg4 86.Rb7b5 Kd5c6 87.Rb5b4 Ng4e5 88.Kd3e2 Kc6c7 89.Rb4b5 Kc7c6 90.Rb5b3 Kc6c5
+91.Rb3c3 Kc5d5 92.Ke2f2 Bg5d2 93.Rc3b3 Kd5c4 94.Rb3a3 Bd2b4 95.Ra3h3 Kc4d5 96.Kf2e2 Ne5c6
+97.Rh3d3 Kd5e4 98.Rd3b3 Nc6d4 99.Ke2f1 Nd4xb3 100.Kf1f2 Nb3d4 101.Kf2g1 Nd4xf5 102.Kg1f2 Nf5e3
+103.Kf2e2 f6f5 104.Ke2f2 f5f4 105.Kf2g1 f4f3 106.Kg1f2 Ne3d1 107.Kf2f1 Bb4c3 108.Kf1g1 f3f2
+109.Kg1f1 Bc3d4 110.Kf1e2 Nd1c3 111.Ke2f1 Nc3d5 112.Kf1g2 Ke4e3 113.Kg2f1 Bd4e5 114.Kf1g2 Ke3e2
+115.Kg2h3 f2f1=Q 116.Kh3h4 Qf1f7 117.Kh4g4 Nd5e3 118.Kg4g5 Be5g3 119.Kg5h6 Bg3f4 0-1

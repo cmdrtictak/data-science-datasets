@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.06||1.01||16.19||1.32||0.79||2.04||1.11||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "1-0"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.h2h3 Bf8e7
+19.b2b3 Ra4a5 20.g2g4 Ng8h6 21.g4xh5 Ra5xh5 22.Ne4g3 Rh5a5 23.Bc1b2 Nh6f5 24.Rh1g1 Nf5xg3
+25.f2xg3 Ra5h5 26.Bb2xg7 Ke8f7 27.Bg7d4 Rh5xh3 28.Ra1f1 Kf7g6 29.Nf3e5 Nd7xe5 30.Bd4xe5 Rh3h5
+31.Be5d4 Rh5h2 32.Rf1f2 Rh2xf2 33.Bd4xf2 a7a5 34.Bf2b6 Be7d8 35.Bb6e3 Bd8c7 36.Be3f4 e6e5
+37.Bf4e3 Rc8h8 38.Rg1c1 Bc7d6 39.a2a4 Bd6a3 40.Rc1c4 Ba3e7 41.Ke2f3 Be7d6 42.Kf3g2 Kg6f7
+43.Rc4h4 Rh8xh4 44.g3xh4 b7b5 45.h4h5 b5xa4 46.b3xa4 Bd6b4 47.h5h6 Kf7g6 48.Kg2h2 Bb4e7
+49.Be3b6 Kg6xh6 50.Bb6c7 Be7b4 51.Bc7xe5 Bb4xd2 52.Be5d6 Bd2c3 53.Kh2g2 Kh6g5 54.Bd6c5 Bc3e5
+55.Bc5b6 c6c5 56.Bb6xc5 Be5c7 57.d3d4 Kg5h5 58.Kg2h3 Kh5g6 59.Kh3g2 Kg6h5 60.Kg2f3 Kh5g5
+61.d4d5 Bc7d8 62.d5d6 Kg5g6 63.d6d7 Kg6f7 64.Bc5d4 Kf7e6 65.Kf3e2 Ke6xd7 66.Ke2d1 Bd8c7
+67.Kd1d2 Bc7d6 68.Kd2e2 Kd7c6 69.Ke2d2 Kc6d7 70.Kd2d1 Kd7c6 71.Kd1d2 Kc6d5 72.Kd2c3 Bd6e5
+73.Bd4xe5 Kd5xe5 74.Kc3d2 Ke5f5 75.Kd2e2 Kf5g5 76.Ke2d2 Kg5f6 77.Kd2c1 Kf6e5 78.Kc1d1 Ke5e6
+79.Kd1c1 Ke6d5 80.Kc1b2 Kd5e6 81.Kb2a1 Ke6f5 82.Ka1b2 Kf5f4 83.Kb2c2 Kf4f3 84.Kc2d2 Kf3g3
+85.Kd2e2 Kg3h4 86.Ke2f3 Kh4h5 87.Kf3g2 Kh5g5 88.Kg2h3 Kg5f5 89.Kh3h4 Kf5f6 90.Kh4g3 Kf6g6
+91.Kg3f3 Kg6g7 92.Kf3f2 Kg7h7 93.Kf2e3 Kh7g8 94.Ke3d2 Kg8g7 95.Kd2c2 Kg7g8 96.Kc2c1 Kg8h8
+97.Kc1d2 Kh8g8 98.Kd2c1 Kg8f8 99.Kc1d2 Kf8e7 100.Kd2c2 Ke7f8 101.Kc2d3 Kf8e8 102.Kd3c4 Ke8f8
+103.Kc4b5 Kf8f7 104.Kb5xa5 Kf7e8 105.Ka5a6 Ke8f8 106.a4a5 Kf8e8 107.Ka6b6 Ke8d7 108.a5a6 Kd7d8
+109.a6a7 Kd8d7 110.a7a8=Q Kd7d6 111.Qa8e4 Kd6d7 112.Kb6c5 Kd7c8 113.Kc5d6 Kc8b8 114.Kd6c5 Kb8c7
+115.Kc5b5 Kc7c8 116.Kb5a6 Kc8d7 117.Ka6a7 Kd7d6 118.Ka7b6 Kd6d7 119.Kb6a6 Kd7d6 120.Ka6a7 Kd6c7
+121.Ka7a6 Kc7c8 122.Qe4e7 Kc8b8 123.Qe7b7 1-0

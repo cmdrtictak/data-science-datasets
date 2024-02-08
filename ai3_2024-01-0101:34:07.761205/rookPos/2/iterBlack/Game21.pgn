@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.03||1.01||16.09||1.31||0.79||0.39||1.10||0.39"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 Qd6g6 6.Qg4xg6 h7xg6
+7.Nb1c3 e7e6 8.Nc3b5 Ke8d8 9.Ng1f3 Ng8f6 10.Ke1e2 Bf8c5 11.d2d4 c7c6 12.d4xc5 c6xb5
+13.a2a4 b5xa4 14.Nf3g5 Kd8e7 15.c5c6 b7xc6 16.Ra1xa4 Nf6e4 17.Ng5xe4 d5xe4 18.Ra4xe4 Ra8b8
+19.Re4a4 Rb8b7 20.e3e4 Rh8h5 21.g2g4 Rh5c5 22.c2c3 Nd7f6 23.g4g5 Nf6g4 24.h2h3 Ng4e5
+25.Rh1d1 Rc5c4 26.Ra4xc4 Ne5xc4 27.f2f3 Rb7b8 28.b2b4 Rb8h8 29.Bc1e3 Nc4xe3 30.Ke2xe3 Rh8h5
+31.Rd1a1 a7a5 32.Ra1xa5 Rh5xh3 33.e4e5 f7f5 34.Ra5a7 Ke7f8 35.c3c4 Rh3h1 36.Ra7a8 Kf8f7
+37.Ra8a7 Kf7g8 38.Ra7a8 Kg8h7 39.Ke3f2 Rh1h4 40.c4c5 Rh4xb4 41.Ra8a1 f5f4 42.Ra1h1 Kh7g8
+43.Rh1d1 Rb4b7 44.Rd1d8 Kg8h7 45.Rd8d4 Rb7b5 46.Rd4xf4 Rb5xc5 47.Rf4e4 Rc5c2 48.Kf2g3 c6c5
+49.Re4h4 Kh7g8 50.Rh4a4 Rc2e2 51.Ra4e4 Re2xe4 52.f3xe4 c5c4 53.Kg3f2 c4c3 54.Kf2e2 c3c2
+55.Ke2d2 c2c1=Q 56.Kd2xc1 Kg8h7 57.Kc1b2 Kh7h8 58.Kb2c1 Kh8h7 59.Kc1d2 Kh7g8 60.Kd2c2 Kg8f8
+61.Kc2c1 Kf8f7 62.Kc1c2 Kf7e7 63.Kc2d1 Ke7e8 64.Kd1d2 Ke8f8 65.Kd2e1 Kf8f7 66.Ke1e2 Kf7g8
+67.Ke2d1 Kg8f8 68.Kd1e2 Kf8e7 69.Ke2e3 Ke7e8 70.Ke3f3 Ke8d8 71.Kf3e3 Kd8e7 72.Ke3e2 Ke7e8
+73.Ke2e1 Ke8d8 74.Ke1e2 Kd8c8 75.Ke2e3 Kc8d7 76.Ke3d2 Kd7e7 77.Kd2e1 Ke7d8 78.Ke1d1 Kd8c8
+79.Kd1d2 Kc8c7 80.Kd2d1 Kc7b7 81.Kd1d2 Kb7a6 82.Kd2d3 Ka6a7 83.Kd3d2 Ka7b8 84.Kd2e2 Kb8c7
+85.Ke2d3 Kc7d8 86.Kd3d4 Kd8d7 87.Kd4e3 Kd7d8 88.Ke3f2 Kd8d7 89.Kf2g1 Kd7c6 90.Kg1f2 Kc6c5
+91.Kf2g3 Kc5b5 92.Kg3f3 Kb5c6 93.Kf3e2 Kc6c7 94.Ke2e3 Kc7b6 95.Ke3d4 Kb6b5 96.Kd4c3 Kb5a4
+97.Kc3c2 Ka4b4 98.Kc2d1 Kb4a5 99.Kd1c2 Ka5b6 100.Kc2b1 Kb6a6 101.Kb1a2 Ka6b5 102.Ka2b1 Kb5c4
+103.Kb1a2 Kc4d4 104.Ka2a1 Kd4xe5 105.Ka1b1 Ke5xe4 106.Kb1a1 Ke4f4 107.Ka1a2 Kf4xg5 108.Ka2b1 e6e5
+109.Kb1a2 e5e4 110.Ka2a3 e4e3 111.Ka3b4 e3e2 112.Kb4b5 e2e1=Q 113.Kb5b6 Qe1e4 114.Kb6a7 Kg5h6
+115.Ka7b8 g6g5 116.Kb8c7 g5g4 117.Kc7b6 g4g3 118.Kb6b5 g3g2 119.Kb5c5 g2g1=Q 120.Kc5b5 Qg1b1
+121.Kb5a6 Qe4a4 0-1

@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||3.92||1.01||16.09||1.33||0.81||1.63||1.10||0.39"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Nb1c3 Ng8f6 4.Qh5g5 Bc8d7 5.a2a4 Nf6e4 6.Qg5xd5 Bd7c6
+7.Qd5c4 Ne4xc3 8.b2xc3 Qd6d5 9.Qc4g4 Bc6d7 10.Qg4b4 a7a5 11.Qb4h4 g7g5 12.Qh4h5 Bf8g7
+13.Ng1f3 Qd5f5 14.Nf3xg5 Qf5g6 15.Qh5xg6 h7xg6 16.Bf1d3 Bg7f6 17.Ng5f3 Bd7f5 18.Bd3xf5 g6xf5
+19.Ra1b1 b7b6 20.h2h4 Nb8c6 21.h4h5 Rh8g8 22.g2g3 Ke8d7 23.Ke1e2 Rg8g4 24.d2d4 e7e6
+25.Bc1a3 Ra8h8 26.h5h6 Kd7c8 27.h6h7 Bf6g7 28.Rb1b5 Kc8b7 29.Nf3d2 Kb7a6 30.Ke2d3 e6e5
+31.d4d5 Rg4xa4 32.Rb5b3 Nc6a7 33.Kd3e2 c7c6 34.d5xc6 Na7xc6 35.c3c4 e5e4 36.c2c3 Ka6b7
+37.Ba3d6 Ra4a2 38.Bd6a3 a5a4 39.Rb3b5 Ra2xa3 40.Rb5xf5 f7f6 41.Nd2xe4 Ra3a2 42.Ne4d2 Ra2a3
+43.g3g4 Ra3xc3 44.f2f4 a4a3 45.Rf5b5 Nc6a7 46.Rb5b1 b6b5 47.c4xb5 Kb7b6 48.Rb1c1 Rc3xc1
+49.Rh1xc1 Rh8xh7 50.Nd2c4 Kb6xb5 51.Nc4xa3 Kb5a4 52.Rc1c7 Rh7h2 53.Ke2d3 Na7c6 54.Na3c2 Rh2xc2
+55.Kd3xc2 Nc6b4 56.Kc2d1 Bg7h6 57.Rc7c4 Ka4b3 58.Rc4c7 Nb4d5 59.Rc7b7 Kb3c4 60.Kd1d2 Bh6f8
+61.f4f5 Bf8h6 62.Kd2e1 Nd5xe3 63.Rb7c7 Kc4d4 64.Rc7d7 Kd4c3 65.Rd7c7 Kc3b2 66.Rc7b7 Kb2c1
+67.Rb7c7 Kc1b1 68.Rc7b7 Kb1c1 69.Rb7c7 Kc1b1 70.Rc7b7 Kb1c1 71.Rb7c7 Kc1b1 72.Rc7b7 Kb1a2
+73.Rb7a7 Ka2b2 74.Ra7b7 Kb2c1 75.Rb7c7 Kc1b2 76.Rc7b7 Kb2a3 77.Rb7a7 Ka3b2 78.Ra7b7 Kb2a3
+79.Rb7a7 Ka3b2 80.Ra7b7 Kb2a2 81.Rb7a7 Ka2b1 82.Ra7b7 Kb1a1 83.Rb7a7 Ka1b2 84.Ra7b7 Kb2a2
+85.Rb7a7 Ka2b2 86.Ra7b7 Kb2a3 87.Rb7a7 Ka3b4 88.Ra7b7 Kb4c3 89.Rb7c7 Kc3b3 90.Rc7b7 Kb3a4
+91.Rb7a7 Ka4b5 92.Ra7b7 Kb5c6 93.Rb7b4 Ne3c2 94.Ke1e2 Nc2xb4 95.Ke2f3 Nb4d5 96.Kf3g2 Nd5c3
+97.Kg2h1 Bh6e3 98.Kh1g2 Be3f4 99.Kg2h3 Kc6b7 100.Kh3h4 Kb7b6 101.Kh4h3 Kb6c5 102.Kh3g2 Kc5c6
+103.Kg2f1 Nc3d5 104.Kf1e1 Nd5e3 105.g4g5 Bf4xg5 106.Ke1e2 Ne3xf5 107.Ke2f3 Nf5d6 108.Kf3g4 Bg5d2
+109.Kg4g3 f6f5 110.Kg3g2 f5f4 111.Kg2f3 Bd2e3 112.Kf3g4 Nd6e4 113.Kg4f5 Ne4f2 114.Kf5f6 f4f3
+115.Kf6e7 Nf2d3 116.Ke7e8 f3f2 117.Ke8f8 f2f1=Q 118.Kf8g8 Qf1f6 119.Kg8h7 Qf6f7 120.Kh7h8 Be3d4 0-1

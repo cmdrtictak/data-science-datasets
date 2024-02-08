@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.02"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.04||1.02||16.38||1.33||0.79||1.01||1.11||1.22"]
+[Result "1/2-1/2"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.g2g3 Ba3e7 35.Bf6xe7 Kd7xe7 36.d3d4 Nf7d6
+37.a2a4 Rh5f5 38.h4h5 Rf5xf2 39.Ra1e1 Ke7d7 40.Re1f1 Rf2xf1 41.Rh1xf1 Rg8xg3 42.a4a5 Kd7e6
+43.b3b4 Nd6b5 44.Rf1e1 Ke6d7 45.h5h6 Nb5xd4 46.Kc2b2 Rg3b3 47.Kb2a2 Rb3xb4 48.h6h7 Rb4a4
+49.Ka2b2 Ra4b4 50.Kb2c3 Rb4b3 51.Kc3xd4 Rb3h3 52.Kd4c4 Rh3xh7 53.Re1e3 b7b5 54.Kc4b3 Rh7h2
+55.Kb3c2 Rh2h5 56.Re3g3 Rh5c5 57.Kc2b3 Rc5c1 58.Rg3g7 Kd7c8 59.Rg7xa7 Kc8b8 60.Ra7f7 Rc1b1
+61.Kb3a2 Rb1b4 62.Rf7f8 Kb8a7 63.d2d4 Rb4xd4 64.Ka2b1 b5b4 65.Kb1b2 c6c5 66.Rf8f6 c5c4
+67.a5a6 Rd4d2 68.Kb2b1 b4b3 69.Rf6c6 Rd2f2 70.Rc6xc4 Ka7xa6 71.Rc4c7 b3b2 72.Rc7d7 Rf2e2
+73.Rd7d5 Ka6b6 74.Rd5d3 Kb6a7 75.Rd3d7 Ka7a6 76.Rd7d4 Ka6a5 77.Rd4d3 Re2g2 78.Rd3d7 Ka5b6
+79.Rd7d3 Kb6a7 80.Rd3d7 Ka7a6 81.Rd7d6 Ka6b7 82.Rd6d3 Kb7a7 83.Rd3d7 Ka7b8 84.Rd7d5 Kb8a8
+85.Rd5d3 Rg2e2 86.Rd3d5 Ka8a7 87.Rd5d6 Re2g2 88.Rd6d3 Ka7a8 89.Rd3d5 Rg2e2 90.Rd5d4 Re2f2
+91.Rd4d7 Rf2h2 92.Rd7d8 Ka8b7 93.Rd8d4 Kb7a7 94.Rd4d5 Ka7a6 95.Rd5d6 Ka6a5 96.Rd6d4 Rh2g2
+97.Rd4d3 Ka5a4 98.Rd3d8 Ka4a3 99.Rd8d3 Ka3a4 100.Rd3d7 Ka4a3 101.Rd7d3 Ka3a4 102.Rd3d6 Ka4b5
+103.Rd6d8 Kb5c4 104.Rd8d7 Kc4c3 105.Rd7c7 Kc3d3 106.Rc7e7 Kd3c3 107.Re7c7 Kc3d3 108.Rc7f7 Kd3c3
+109.Rf7f3 Kc3c4 110.Rf3f6 Kc4b5 111.Rf6f5 Kb5c4 112.Rf5f8 Kc4c3 113.Rf8f3 Kc3c4 114.Rf3f6 Kc4c5
+115.Rf6f3 Rg2e2 116.Rf3f8 Re2d2 117.Rf8b8 Rd2f2 118.Rb8xb2 Rf2xb2 119.Kb1xb2 1/2-1/2

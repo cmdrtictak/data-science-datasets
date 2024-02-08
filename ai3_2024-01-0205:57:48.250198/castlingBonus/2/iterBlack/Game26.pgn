@@ -1,0 +1,30 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.02"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.03||0.99||15.76||1.27||0.78||1.01||1.10||0.20"]
+[Result "1/2-1/2"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.g2g3 Ba3e7 35.Bf6xe7 Kd7xe7 36.d3d4 Nf7d6
+37.a2a4 Rh5f5 38.h4h5 Rf5xf2 39.Ra1e1 Ke7d7 40.Re1f1 Rf2xf1 41.Rh1xf1 Rg8xg3 42.a4a5 Kd7e6
+43.b3b4 Nd6b5 44.Rf1e1 Ke6d7 45.h5h6 Nb5xd4 46.Kc2b2 Rg3b3 47.Kb2a2 Rb3xb4 48.h6h7 Rb4a4
+49.Ka2b2 Ra4b4 50.Kb2c3 Rb4b3 51.Kc3xd4 Rb3h3 52.Kd4c4 Rh3xh7 53.Re1e3 b7b5 54.Kc4b3 Rh7h2
+55.Kb3c2 Rh2h5 56.Re3f3 Rh5c5 57.Kc2b3 Kd7e6 58.a5a6 Rc5d5 59.d2d3 Rd5d4 60.Rf3h3 c6c5
+61.Rh3h6 Ke6e7 62.Rh6h7 Ke7e8 63.Rh7h8 Ke8f7 64.Rh8h3 Kf7f8 65.Rh3f3 Kf8g8 66.Rf3g3 Kg8h7
+67.Rg3h3 Kh7g7 68.Rh3g3 Kg7h8 69.Rg3h3 Kh8g7 70.Rh3g3 Kg7h6 71.Rg3h3 Kh6g5 72.Rh3f3 b5b4
+73.Rf3h3 Kg5g6 74.Rh3e3 Kg6h6 75.Re3e6 Kh6h7 76.Re6e7 Kh7g8 77.Re7e3 Kg8f7 78.Re3g3 Kf7e8
+79.Rg3h3 Ke8f8 80.Rh3g3 Kf8f7 81.Rg3e3 Kf7f6 82.Re3h3 Kf6g7 83.Rh3f3 Kg7h6 84.Rf3e3 Kh6g6
+85.Re3h3 Kg6g5 86.Rh3e3 Kg5f5 87.Re3g3 Kf5e6 88.Rg3h3 Ke6f6 89.Rh3g3 Kf6f7 90.Rg3e3 Kf7f6
+91.Re3g3 Kf6f5 92.Rg3e3 Kf5f6 93.Re3g3 Kf6f7 94.Rg3e3 Kf7g6 95.Kb3c2 Kg6f6 96.Re3e1 Rd4f4
+97.Re1h1 Rf4f3 98.Rh1h2 Kf6g5 99.Rh2h8 Rf3f2 100.Kc2b3 Rf2f6 101.Rh8c8 Rf6xa6 102.Rc8xc5 Kg5g4
+103.Kb3xb4 Ra6d6 104.Kb4c3 Rd6e6 105.Kc3d2 Re6h6 106.Kd2c3 a7a6 107.Kc3b4 Rh6d6 108.Kb4c3 Rd6f6
+109.Kc3b4 Rf6d6 110.Kb4c3 Rd6h6 111.Kc3b4 Rh6d6 112.Kb4c3 Rd6h6 113.Kc3b4 Rh6d6 114.Kb4c3 Rd6f6
+115.Kc3b4 Rf6d6 116.Kb4c3 Rd6e6 117.Kc3d2 Re6f6 118.Kd2c3 Rf6f8 119.Kc3b4 Rf8d8 120.Kb4c3 Rd8e8
+121.Kc3d2 Kg4f3 122.d3d4 Re8e2 123.Kd2d1 Re2g2 124.d4d5 Rg2g1 125.Kd1d2 Kf3f4 126.d5d6 Rg1g2
+127.Kd2e1 Rg2h2 128.d6d7 Rh2h1 129.Ke1f2 Rh1h2 130.Kf2g1 Rh2d2 131.Rc5c4 Kf4g5 132.Rc4c5 Kg5f6
+133.Rc5c6 Kf6e7 134.Rc6xa6 Rd2xd7 135.Ra6c6 Rd7d6 136.Rc6xd6 Ke7xd6 1/2-1/2

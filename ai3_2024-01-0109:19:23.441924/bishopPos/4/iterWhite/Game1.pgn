@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.01||1.01||15.84||1.27||0.87||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.Bf6d4 Rg8xg2 35.Bd4xa7 Ba3c5 36.Ba7xc5 Rh5xc5
+37.Kc2b2 Rg2xf2 38.Ra1d1 Nf7e5 39.d3d4 Ne5d3 40.Kb2a1 Rc5h5 41.Rh1h3 Nd3f4 42.Rh3g3 Rh5xh4
+43.Rg3g7 Kd7e8 44.Rg7xb7 Nf4d3 45.Rb7b8 Ke8d7 46.a2a4 Kd7c7 47.Rb8e8 Rh4xd4 48.Re8g8 Nd3c5
+49.Ka1a2 Rd4xd2 50.Rd1xd2 Rf2xd2 51.Ka2a3 Rd2d3 52.a4a5 Rd3xb3 53.Ka3a2 Rb3h3 54.Rg8g2 Nc5a6
+55.Rg2g7 Kc7d8 56.Rg7g8 Kd8d7 57.Rg8g7 Kd7d8 58.Rg7g8 Kd8d7 59.Rg8g7 Kd7d8 60.Rg7g8 Kd8e7
+61.Rg8g4 Rh3e3 62.Ka2b2 Re3e5 63.Kb2c1 Re5c5 64.Kc1d2 Rc5d5 65.Kd2c2 Rd5c5 66.Kc2b2 Rc5b5
+67.Kb2c3 Rb5xa5 68.Rg4e4 Ke7f6 69.Re4f4 Ra5f5 70.Rf4h4 Kf6g5 71.Rh4e4 Na6c5 72.Re4d4 Rf5f4
+73.Rd4xf4 Kg5xf4 74.Kc3b4 Nc5e4 75.Kb4b3 c6c5 76.Kb3c4 Kf4f5 77.Kc4d5 Kf5f4 78.Kd5c4 Kf4g4
+79.Kc4b5 Kg4h5 80.Kb5c4 Kh5g4 81.Kc4d5 Kg4f5 82.Kd5c4 Kf5f4 83.Kc4b5 Kf4e3 84.Kb5c4 Ke3e2
+85.Kc4d5 Ke2d3 86.Kd5e5 c5c4 87.Ke5d5 c4c3 88.Kd5e5 c3c2 89.Ke5f4 c2c1=Q 90.Kf4f5 Qc1b2
+91.Kf5e6 Kd3e3 92.Ke6f7 Qb2e5 93.Kf7g8 Qe5d5 94.Kg8f8 Ne4c3 95.Kf8g7 Ke3f2 96.Kg7h8 Kf2e3
+97.Kh8h7 Ke3f2 98.Kh7g6 Kf2f1 99.Kg6f6 Qd5e4 100.Kf6g5 Kf1f2 101.Kg5h6 Qe4d5 102.Kh6h7 Qd5e4
+103.Kh7h8 Kf2g3 104.Kh8g7 Kg3f2 105.Kg7f7 Kf2g1 106.Kf7g8 Kg1f1 107.Kg8f7 Kf1f2 108.Kf7g8 Qe4d5
+109.Kg8h8 Qd5e4 110.Kh8g7 Qe4d5 111.Kg7h6 Kf2e1 112.Kh6h7 Ke1f1 113.Kh7g7 Kf1e1 114.Kg7h6 Ke1f2
+115.Kh6h7 Kf2g3 116.Kh7g6 Kg3f4 117.Kg6h6 Qd5g8 118.Kh6h5 Qg8g5 0-1

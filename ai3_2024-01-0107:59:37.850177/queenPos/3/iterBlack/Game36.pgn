@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.05||0.99||15.66||1.27||0.78||1.01||0.61||0.41"]
+[Result "1/2-1/2"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.g2g3 Ba3e7 35.Bf6xe7 Kd7xe7 36.d3d4 Nf7d6
+37.a2a4 Rh5f5 38.h4h5 Rf5xf2 39.Ra1e1 Ke7d7 40.Re1f1 Rf2xf1 41.Rh1xf1 Rg8xg3 42.a4a5 Kd7e6
+43.b3b4 Nd6b5 44.Rf1e1 Ke6d7 45.h5h6 Nb5xd4 46.Kc2b2 Rg3b3 47.Kb2a2 Rb3xb4 48.h6h7 Rb4a4
+49.Ka2b2 Ra4b4 50.Kb2c3 Rb4b3 51.Kc3xd4 Rb3h3 52.Kd4c4 Rh3xh7 53.Re1g1 b7b5 54.Kc4c5 Rh7h5
+55.Kc5b4 Rh5h4 56.Kb4b3 Rh4h3 57.Kb3c2 c6c5 58.Rg1g7 Kd7d8 59.Rg7xa7 Kd8c8 60.a5a6 Rh3h6
+61.Ra7a8 Kc8c7 62.Kc2b2 Rh6d6 63.Kb2c2 c5c4 64.Kc2d1 c4c3 65.d2d4 Rd6xd4 66.Kd1c2 b5b4
+67.Kc2b3 Kc7b6 68.Kb3c2 Rd4d2 69.Kc2b1 b4b3 70.Ra8b8 Kb6xa6 71.Rb8xb3 c3c2 72.Kb1c1 Rd2e2
+73.Rb3d3 Ka6b5 74.Rd3d8 Kb5b6 75.Rd8d3 Re2h2 76.Rd3a3 Kb6b7 77.Ra3a4 Kb7b8 78.Ra4a3 Rh2f2
+79.Ra3e3 Kb8b7 80.Re3e4 Rf2g2 81.Re4a4 Rg2e2 82.Ra4a3 Re2f2 83.Ra3a4 Kb7b8 84.Ra4a3 Rf2h2
+85.Ra3a4 Rh2f2 86.Ra4a3 Rf2e2 87.Ra3a4 Re2f2 88.Ra4e4 Rf2h2 89.Re4a4 Rh2f2 90.Ra4e4 Kb8a7
+91.Re4d4 Rf2g2 92.Rd4h4 Ka7a6 93.Rh4e4 Ka6b5 94.Re4e7 Kb5c6 95.Re7e3 Kc6b6 96.Re3e8 Kb6b7
+97.Re8e4 Kb7b8 98.Re4e3 Kb8a8 99.Re3d3 Ka8b7 100.Rd3a3 Rg2f2 101.Ra3a4 Kb7b6 102.Ra4e4 Kb6b5
+103.Re4e7 Kb5b6 104.Re7e8 Kb6b7 105.Re8e4 Kb7a7 106.Re4e7 Ka7b6 107.Re7e3 Kb6a5 108.Re3e7 Ka5b6
+109.Re7e3 Kb6b5 110.Re3e8 Kb5a6 111.Re8e6 Ka6b7 112.Re6e5 Kb7c6 113.Re5e3 Kc6d6 114.Re3a3 Rf2g2
+115.Ra3a5 Rg2e2 116.Ra5a3 Kd6d5 117.Ra3a7 Kd5c6 118.Ra7a3 Kc6b6 119.Ra3c3 Re2h2 120.Rc3xc2 Rh2xc2
+121.Kc1xc2 1/2-1/2

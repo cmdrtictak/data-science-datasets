@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.06||1.00||15.79||1.30||0.81||1.02||1.60||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.Bf6d4 Rg8xg2 35.Bd4xa7 Ba3c5 36.Ba7xc5 Rh5xc5
+37.Kc2b2 Rg2xf2 38.Ra1d1 Nf7e5 39.d3d4 Ne5d3 40.Kb2a1 Rc5h5 41.Rh1h3 Nd3f4 42.Rh3g3 Rh5xh4
+43.Rg3g7 Kd7e8 44.Rg7xb7 Nf4d3 45.Rb7b8 Ke8d7 46.a2a4 Kd7c7 47.Rb8e8 Rh4xd4 48.Re8h8 Nd3c5
+49.Ka1a2 Rf2xd2 50.Rd1xd2 Rd4xd2 51.Ka2a3 Rd2d3 52.a4a5 Rd3xb3 53.Ka3a2 Rb3b4 54.Rh8h7 Kc7d8
+55.Rh7h8 Kd8e7 56.Rh8h7 Ke7f8 57.Rh7h8 Kf8g7 58.Rh8d8 Rb4a4 59.Ka2b1 Ra4xa5 60.Rd8d4 Ra5a3
+61.Rd4g4 Kg7h8 62.Rg4h4 Kh8g7 63.Rh4g4 Kg7h7 64.Rg4h4 Kh7g6 65.Rh4g4 Kg6h7 66.Rg4h4 Kh7g8
+67.Rh4g4 Kg8h7 68.Rg4h4 Kh7g7 69.Rh4g4 Kg7h8 70.Rg4h4 Kh8g8 71.Rh4g4 Kg8h7 72.Rg4h4 Kh7g7
+73.Rh4g4 Kg7h6 74.Rg4h4 Kh6g7 75.Rh4g4 Kg7h7 76.Rg4h4 Kh7g7 77.Rh4g4 Kg7h8 78.Rg4h4 Kh8g7
+79.Rh4g4 Kg7h7 80.Rg4h4 Kh7g6 81.Rh4g4 Kg6h7 82.Rg4h4 Kh7g7 83.Rh4g4 Kg7h7 84.Rg4h4 Kh7g7
+85.Rh4g4 Kg7h7 86.Rg4h4 Kh7g8 87.Rh4g4 Kg8h8 88.Rg4h4 Kh8g7 89.Rh4g4 Kg7h6 90.Rg4h4 Kh6g6
+91.Rh4g4 Kg6h5 92.Rg4g7 Ra3e3 93.Rg7f7 Kh5g5 94.Rf7g7 Kg5f5 95.Rg7f7 Kf5g5 96.Rf7g7 Kg5f6
+97.Rg7g4 Kf6f5 98.Rg4g7 Re3e2 99.Rg7f7 Kf5g6 100.Rf7f4 Re2e4 101.Rf4xe4 Nc5xe4 102.Kb1c1 c6c5
+103.Kc1b2 c5c4 104.Kb2c1 c4c3 105.Kc1d1 Ne4c5 106.Kd1c1 Kg6h6 107.Kc1d1 Kh6g6 108.Kd1c1 Kg6f5
+109.Kc1b1 Kf5e5 110.Kb1c1 Ke5d4 111.Kc1b1 Kd4d3 112.Kb1c1 c3c2 113.Kc1b2 Nc5b3 114.Kb2xb3 c2c1=Q
+115.Kb3a4 Qc1c5 116.Ka4b3 Qc5e5 117.Kb3a2 Kd3c2 118.Ka2a3 Qe5a5 0-1

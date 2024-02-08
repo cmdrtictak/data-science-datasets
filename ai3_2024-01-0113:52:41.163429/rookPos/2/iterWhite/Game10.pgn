@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.02||1.01||15.74||1.29||0.82||0.40||1.09||0.40"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "1-0"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Nb5xd4 Re6f6 12.d2d3 e7e5
+13.f4xe5 Nd7xe5 14.Ng1f3 Ne5xf3 15.Nd4xf3 Rf6c6 16.Bc1f4 Rc6xc2 17.Ra1e1 Ke8d8 18.Re1e2 Rc2xe2
+19.Kf1xe2 Bf8d6 20.Bf4e3 Kd8d7 21.Be3xa7 Rc8a8 22.Ba7d4 Ra8xa2 23.Bd4xg7 f7f6 24.Rh1b1 c7c6
+25.h2h3 Ra2a8 26.Rb1c1 Bd6f4 27.Rc1c5 Ra8e8 28.Ke2f1 Re8a8 29.Rc5xh5 Ra8a2 30.Rh5h8 Ra2a1
+31.Kf1e2 Ra1a8 32.Rh8h7 Ra8e8 33.Ke2d1 Re8e7 34.Rh7h4 Re7xg7 35.Rh4xf4 Rg7xg2 36.Nf3e1 Rg2g5
+37.Rf4b4 Rg5b5 38.Rb4xb5 c6xb5 39.b2b4 f6f5 40.f2f4 Ng8f6 41.Ne1f3 Nf6d5 42.h3h4 Nd5xf4
+43.Nf3e5 Kd7d6 44.d3d4 Kd6d5 45.Ne5f3 Kd5e4 46.Nf3e5 Nf4h5 47.Kd1c2 Ke4xd4 48.Ne5d3 f5f4
+49.Nd3c5 Kd4c4 50.Nc5xb7 Kc4xb4 51.Nb7d8 f4f3 52.Nd8c6 Kb4c5 53.Nc6e5 b5b4 54.Ne5xf3 Nh5f4
+55.Kc2b3 Nf4h5 56.Nf3e5 Nh5f4 57.Ne5c4 Nf4h5 58.Nc4e5 Nh5f4 59.Ne5c4 Nf4h5 60.Nc4e3 Nh5f4
+61.Ne3c2 Nf4d3 62.h4h5 Nd3c1 63.Kb3b2 Nc1d3 64.Kb2b3 Nd3c1 65.Kb3b2 Nc1d3 66.Kb2a2 Kc5c4
+67.Nc2e3 Kc4b5 68.h5h6 Kb5a4 69.h6h7 b4b3 70.Ka2b1 Ka4a3 71.h7h8=Q Nd3e1 72.Qh8c3 Ka3a4
+73.Qc3xe1 Ka4b5 74.Qe1c3 Kb5a4 75.Ne3f5 Ka4b5 76.Qc3xb3 Kb5c6 77.Qb3e3 Kc6b7 78.Qe3d4 Kb7b8
+79.Kb1a2 Kb8c8 80.Ka2a3 Kc8b8 81.Ka3a2 Kb8c7 82.Ka2b3 Kc7c8 83.Kb3a3 Kc8c7 84.Ka3a2 Kc7b8
+85.Ka2b3 Kb8b7 86.Kb3a3 Kb7c7 87.Ka3b3 Kc7b8 88.Kb3c2 Kb8a8 89.Kc2b3 Ka8b8 90.Kb3a2 Kb8c8
+91.Ka2b3 Kc8b7 92.Kb3a2 Kb7c7 93.Ka2b1 Kc7b7 94.Kb1c2 Kb7c7 95.Kc2c1 Kc7b7 96.Kc1b1 Kb7c6
+97.Kb1c1 Kc6c7 98.Kc1c2 Kc7b8 99.Kc2c1 Kb8c8 100.Kc1c2 Kc8b8 101.Kc2b3 Kb8a8 102.Kb3c2 Ka8b8
+103.Kc2b3 Kb8c7 104.Kb3a2 Kc7b7 105.Ka2b1 Kb7c8 106.Kb1a2 Kc8c7 107.Ka2b3 Kc7b8 108.Kb3a2 Kb8a8
+109.Ka2a3 Ka8b8 110.Ka3a2 Kb8c7 111.Ka2b1 Kc7b8 112.Kb1c1 Kb8c7 113.Kc1b1 Kc7c8 114.Kb1c1 Kc8b7
+115.Kc1c2 Kb7a6 116.Kc2b3 Ka6a5 117.Qd4a7 Ka5b5 118.Nf5d4 1-0

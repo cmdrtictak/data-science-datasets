@@ -1,0 +1,26 @@
+[Event "?"]
+[Site "?"]
+[Date "2024.01.01"]
+[White "AI3 PiecePos-Analyzing||4.06||0.99||15.82||1.31||0.79||1.01||1.83||0.39"]
+[Black "AI3 PiecePos-Analyzing||4.00||1.00||16.00||1.30||0.80||1.00||1.10||0.40"]
+[Result "0-1"]
+
+1.e2e3 d7d5 2.Qd1h5 Qd8d6 3.Bf1b5 Bc8d7 4.Bb5xd7 Nb8xd7 5.Qh5g4 h7h5 6.Qg4f4 Qd6xf4
+7.e3xf4 Rh8h6 8.Nb1c3 Rh6e6 9.Ke1f1 d5d4 10.Nc3b5 Ra8c8 11.Ng1f3 d4d3 12.f4f5 Re6a6
+13.c2xd3 c7c6 14.Nb5c3 e7e6 15.f5xe6 f7xe6 16.Kf1e2 Ra6a5 17.Nc3e4 Ra5a4 18.b2b3 Ra4a5
+19.Bc1b2 Ng8h6 20.Nf3g5 g7g6 21.Ng5xe6 Bf8e7 22.Bb2c3 Ra5d5 23.Ne6f4 Rd5f5 24.Nf4xg6 Be7a3
+25.Bc3g7 Nh6f7 26.Bg7d4 Rf5a5 27.Ne4f6 Nd7xf6 28.Bd4xf6 Ke8d7 29.h2h4 Rc8g8 30.Ng6f4 Ra5f5
+31.Nf4xh5 Rg8e8 32.Ke2d1 Rf5xh5 33.Kd1c2 Re8g8 34.Bf6d4 Rg8xg2 35.Bd4xa7 Ba3c5 36.Ba7xc5 Rh5xc5
+37.Kc2b2 Rg2xf2 38.Ra1d1 Nf7e5 39.d3d4 Ne5d3 40.Kb2a1 Rc5h5 41.Rh1h3 Nd3f4 42.Rh3g3 Rh5xh4
+43.Rg3g7 Kd7e8 44.Rg7xb7 Nf4d3 45.Rb7b8 Ke8d7 46.a2a4 Kd7c7 47.Rb8e8 Rh4xd4 48.Re8g8 Nd3c5
+49.Ka1a2 Rd4xd2 50.Rd1xd2 Rf2xd2 51.Ka2a3 Rd2d3 52.a4a5 Rd3xb3 53.Ka3a2 Rb3e3 54.Rg8g4 Re3e2
+55.Ka2b1 Re2e1 56.Kb1a2 Re1e2 57.Ka2b1 Re2e1 58.Kb1a2 Re1e2 59.Ka2a3 Re2e3 60.Ka3a2 Re3e2
+61.Ka2b1 Re2e1 62.Kb1c2 Nc5a6 63.Rg4g7 Kc7c8 64.Kc2d2 Re1e5 65.Rg7g8 Kc8b7 66.Kd2d3 Re5xa5
+67.Kd3c3 Na6c7 68.Kc3c4 Nc7e6 69.Kc4b3 Ra5f5 70.Kb3b4 Rf5f3 71.Kb4c4 Kb7a7 72.Rg8g2 Rf3f4
+73.Kc4b3 Rf4f3 74.Kb3c4 Rf3f4 75.Kc4c3 Rf4f3 76.Kc3c4 Rf3f4 77.Kc4c3 Rf4f3 78.Kc3c4 Rf3f4
+79.Kc4b3 Rf4f3 80.Kb3c4 Rf3f4 81.Kc4b3 Rf4f3 82.Kb3c4 Rf3f4 83.Kc4d3 c6c5 84.Rg2a2 Ka7b8
+85.Kd3e3 Rf4g4 86.Ke3f3 Rg4f4 87.Kf3e3 Rf4g4 88.Ke3f3 Rg4f4 89.Kf3g3 Rf4b4 90.Ra2h2 Rb4b3
+91.Kg3g4 Kb8c8 92.Rh2h8 Kc8d7 93.Rh8h5 c5c4 94.Rh5h7 Kd7e8 95.Rh7h6 Ke8f7 96.Rh6h5 c4c3
+97.Rh5f5 Kf7e8 98.Rf5h5 c3c2 99.Rh5h8 Ke8d7 100.Rh8h7 Kd7c8 101.Rh7h8 Kc8d7 102.Rh8h7 Kd7c8
+103.Rh7h8 Kc8d7 104.Rh8h7 Kd7e8 105.Rh7h8 Ke8d7 106.Rh8h7 Kd7c6 107.Kg4f5 c2c1=Q 108.Kf5xe6 Qc1f4
+109.Rh7h5 Rb3e3 110.Rh5e5 Re3xe5 0-1
